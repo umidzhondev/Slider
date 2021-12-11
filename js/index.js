@@ -30,4 +30,4 @@ function changeItem() {
 let autoChange = setInterval(()=>{
     count++;
     changeItem();
-},2000)
+},3800)
